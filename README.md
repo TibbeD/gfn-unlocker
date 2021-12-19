@@ -20,9 +20,7 @@ the copyright I have on my edits of the code is [GPL](https://opensource.org/lic
   - GPL is less permissive than MIT in all areas, so you only need to pay attention to the GPL license. Unlike MIT, GPL requires derivative works to have the same license. So    pay attention to that.
   - GPL doesn't apply to the icon, I think you can probably use it though, I didn't trademark it and images of simple geometry are in many jurisdction not eligible for copyright. I think the US is included in the country's where the icon is below the minimum threshold of originality for copyright protection. So it's probably not mandatory, but I would still like it if people who want to use it would ask for permission first.
 
-when you only use parts I didn't change MIT is the only license that applies ofcourse!
-
-You can't use the icon (except that it is probably too simple for copyright in many jurisdictions).
+when you only use parts of this repo that I didn't change MIT is the only license that applies ofcourse!
 
 #### questions on license/copyright
 ##### 2 licenses? Does that mean I can choose?
