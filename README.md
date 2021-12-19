@@ -1,7 +1,7 @@
 # gfn-unlocker
 forked from [murar8/gfn-unlocker](https://github.com/murar8/gfn-unlocker)
 ## Known issues
-####Cursor doesn't work well (Firefox)
+#### Cursor doesn't work well (Firefox)
 That is not an issue with this extension, it is an issue with Geforcenow and Firefox. The only thing what this extension does is forcing geforce now to act like Firefox is offically supported (or something like that, I didn't look at the Javascript when I forked this, I only changed the UI) the cursor not working well always is probably the reason that geforce now doesn't officially support Firefox, and they don't fix it because most people use a chromium based browser, and the bug isn't there in chromium based browsers.
 
 ## License
