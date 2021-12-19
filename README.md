@@ -15,8 +15,10 @@ The above copyright notice and this permission notice shall be included in all c
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
 #### copyright that I have: 
-the copyright I have on my edits of code is [GPL](https://opensource.org/licenses/gpl-license). The GPL license doesn't apply to any media (at this moment only the icon) in this repository!
-GPL is less permissive than MIT in all areas, so you only need to pay attention to the GPL license. Unlike MIT, GPL requires derivative works to have the same license. So pay attention to that.
+the copyright I have on my edits of the code is [GPL](https://opensource.org/licenses/gpl-license). The GPL license doesn't apply to any media (at this moment only the icon) in this repository!
+#### things you should know
+  - GPL is less permissive than MIT in all areas, so you only need to pay attention to the GPL license. Unlike MIT, GPL requires derivative works to have the same license. So    pay attention to that.
+  - GPL doesn't apply to the icon
 
 when you only use parts I didn't change MIT is the only license that applies ofcourse!
 
