@@ -5,7 +5,7 @@ forked from [murar8/gfn-unlocker](https://github.com/murar8/gfn-unlocker)
 That is not an issue with this extension, it is an issue with Geforcenow and Firefox. The only thing what this extension does is forcing geforce now to act like everything is offically supported (or something like that, I didn't look at the Javascript when I forked this, I only changed the UI) the cursor not working well always is probably the reason that geforce now doesn't officially support Firefox, and they don't fix that bug and instead just redirect Firefox users to the not supported page is probably that relatively few people use Firefox, and they feel like Firefox users can also just download the windows or macOS app. Unfortunately nvidia almost never has their stuff also for linux ):
 
 ## License/copyright
-This repository is [GPL](https://opensource.org/licenses/gpl-license) which you can find [here](https://opensource.org/licenses/GPL-3.0), but incorporates work that has the following copyright and permission notice (mit license): 
+This repository is (except for the logo) [GPL](https://opensource.org/licenses/gpl-license) which you can find [here](https://opensource.org/licenses/GPL-3.0), but incorporates work that has the following copyright and permission notice (mit license): 
 
 Copyright (c) 2020 Lorenzo Murarotto lnzmrr@gmail.com
 
@@ -17,8 +17,6 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 
 (end of the copyright and permission notice)
 
-#### copyright that I have: 
-the copyright I have on my edits is [GPL](https://opensource.org/licenses/GPL-3.0). The GPL license doesn't apply to any media (at this moment only the icon) in this repository!
 #### things you should know
   - GPL is less permissive than MIT in all areas, so you only need to pay attention to the GPL license. Unlike MIT, GPL requires derivative works to have the same license. So pay attention to that.
   - GPL doesn't apply to the icon, I think you can probably use it though, I didn't trademark it and images of simple geometry are in many jurisdictions not eligible for copyright. I think the US is included in the country's where the icon is below the minimum threshold of originality for copyright protection. So it's probably not mandatory, but I would still like it if people who want to use it would ask for permission first.
