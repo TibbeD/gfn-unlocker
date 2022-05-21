@@ -1,13 +1,13 @@
 {
   "manifest_version": 2,
 
-  "name": "GeForce NOW Unlocker",
+  "name": "Unlock GFN",
 
   "version": "0.3.1",
 
   "description": "Allow the usage of the GeForce NOW web app on unsupported operating systems.",
   "author": "Lorenzo Murarotto <lnzmrr@gmail.com>",
-  "homepage_url": "https://github.com/murar8/gfn-unlocker",
+  "homepage_url": "https://github.com/TibbeD/unlock-gfn",
 
   "icons": {
     "16": "icons/icon-16.png",
@@ -28,7 +28,7 @@
       "48": "icons/icon-48.png",
       "128": "icons/icon-128.png"
     },
-    "default_title": "GeForce NOW Unlocker",
+    "default_title": "Unlock GFN",
     "default_popup": "popup.html"
   },
 
