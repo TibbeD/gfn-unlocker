@@ -11,10 +11,9 @@ forked from [murar8/gfn-unlocker](https://github.com/murar8/gfn-unlocker)
 
 please note that this way it is only installed temporarily, and you will have to do this again the next time.
 
-## License/copyright
+## © License/copyright
 This repository is (except for the logo) [MIT](https://opensource.org/licenses/mit-license)
 \
-©
 \
 Copyright (c) 2022 contributors
 ```
