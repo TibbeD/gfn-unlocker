@@ -1,9 +1,15 @@
 ![alt text](https://github.com/TibbeD/unlock-gfn/blob/master/icons/icon-128.png?raw=true)
 # Unlock GFN
 forked from [murar8/gfn-unlocker](https://github.com/murar8/gfn-unlocker)
-## Known issues
-#### Cursor doesn't always work well (Firefox)
-That is not an issue with this extension, it is an issue with Geforcenow and Firefox. The only thing what this extension does is spoofing the request headers on play.geforcenow.com  the cursor not working well always is probably the reason that geforce now doesn't officially support Firefox, and they don't fix that bug and instead just redirect Firefox users to the not supported page is probably that relatively few people use Firefox, and they feel like Firefox users can also just download the windows or macOS app. Unfortunately nvidia almost never has their stuff also for opensource things. ):
+
+## Instructions
+### Firefox
+1. [Download this repoository](https://github.com/TibbeD/unlock-gfn/archive/refs/heads/master.zip)
+2. Search for a file named unlock-gfn-master.zip, and unzip it.
+3. In firefox, open [about:debugging#/runtime/this-firefox](about:debugging#/runtime/this-firefox), and click the 'load temporary addon' button. Now go into the new folder, and select either manifest.json or popup.html.
+4. You can now enjoy GeForce Now!
+
+please note that this way it is only installed temporarily, and you will have to do this again the next time.
 
 ## License/copyright
 This repository is (except for the logo) [MIT](https://opensource.org/licenses/mit-license)
@@ -16,6 +22,3 @@ The above copyright notice and this permission notice shall be included in all c
 
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 ```
-
-#### things you should know
-  - MIT doesn't apply to the icon, but you can use it though, I didn't trademark it and images of simple geometry are in most jurisdictions not eligible for copyright. So it's probably not mandatory, but I would still like it if people who want to use it would ask for permission first.
