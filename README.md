@@ -1,3 +1,4 @@
+![alt text](https://github.com/TibbeD/unlock-gfn/blob/master/icons/icon-128.png?raw=true)
 # gfn-unlocker
 forked from [murar8/gfn-unlocker](https://github.com/murar8/gfn-unlocker)
 ## Known issues
