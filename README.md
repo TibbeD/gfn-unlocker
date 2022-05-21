@@ -1,5 +1,5 @@
 ![alt text](https://github.com/TibbeD/unlock-gfn/blob/master/icons/icon-128.png?raw=true)
-# gfn-unlocker
+# unlock-gfn
 forked from [murar8/gfn-unlocker](https://github.com/murar8/gfn-unlocker)
 ## Known issues
 #### Cursor doesn't always work well (Firefox)
