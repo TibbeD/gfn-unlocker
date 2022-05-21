@@ -18,4 +18,4 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 ```
 
 #### things you should know
-  - MIT doesn't apply to the icon, I think you can probably use it though, I didn't trademark it and images of simple geometry are in most jurisdictions not eligible for copyright. I think the US is included in the country's where the icon is below the minimum threshold of originality for copyright protection. So it's probably not mandatory, but I would still like it if people who want to use it would ask for permission first.
+  - MIT doesn't apply to the icon, but you can use it though, I didn't trademark it and images of simple geometry are in most jurisdictions not eligible for copyright. So it's probably not mandatory, but I would still like it if people who want to use it would ask for permission first.
