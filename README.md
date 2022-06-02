@@ -4,10 +4,10 @@ forked from [murar8/gfn-unlocker](https://github.com/murar8/gfn-unlocker)
 
 ## Instructions
 ### Firefox
-1. [Download this repoository](https://github.com/TibbeD/unlock-gfn/archive/refs/heads/master.zip)
-2. Search for a file named unlock-gfn-master.zip, and unzip it.
-3. In firefox, open [about:debugging#/runtime/this-firefox](about:debugging#/runtime/this-firefox), and click the 'load temporary addon' button. Now go into the new folder, and select either manifest.json or popup.html.
-4. You can now enjoy GeForce Now!
+1. [Download this repository](https://github.com/TibbeD/unlock-gfn/archive/refs/heads/master.zip) 
+3. Search for a file named unlock-gfn-master.zip, and unzip it.
+4. In firefox, open [about:debugging#/runtime/this-firefox](about:debugging#/runtime/this-firefox), and click the 'load temporary addon' button. Now go into the new folder, and select either manifest.json or popup.html.
+5. You can now enjoy GeForce Now!
 
 please note that this way it is only installed temporarily, and you will have to do this again the next time.
 
